@@ -132,6 +132,12 @@ print("The correct codeword is : " +
 ## Calculation:
 
 
+<img width="899" height="1599" alt="WhatsApp Image 2026-05-20 at 9 37 18 AM" src="https://github.com/user-attachments/assets/bcd03aae-5ac8-4f86-84b0-dcc1667ad2be" />
+
+<img width="899" height="1599" alt="WhatsApp Image 2026-05-20 at 9 37 19 AM" src="https://github.com/user-attachments/assets/b725b492-9f92-477a-8bea-cc221be69566" />
+
+<img width="899" height="1599" alt="WhatsApp Image 2026-05-20 at 9 37 20 AM" src="https://github.com/user-attachments/assets/3631dd97-8617-4a7f-82a8-d2f35df850af" />
+
 
 
 
